@@ -3,7 +3,11 @@
     --primary: #F3BD00;
     --secondary: #757575;
     --light: #F3F6F8;
-    --dark: #0C2B4B;
+    --dark: #2c2f7c;
+}
+
+.fondo{
+    background-color: #2c2f7c;
 }
 
 html, body, h1 {
@@ -261,7 +265,7 @@ a, p, b, h3, h4, h5, h6, li {
 }
 
 .copyright {
-    background: #092139;
+    background: #171a58;
 }
 
 .copyright a {
